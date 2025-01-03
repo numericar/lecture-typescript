@@ -3,6 +3,7 @@ Data Type
     2. string   จัดเก็บกลุ่มของตัวอักษร
     3. boolean  จัดเก็บค่าจริงเท็จ
     4. object   จัดเก็บข้อมูลในรูปแบบของ key:value
+    5. array    จัดเก็บข้อมูลที่หลายค่า
 
 ข้อแตกต่างระหว่าง js และ ts
     - javascript ใช้ dynamic type 
